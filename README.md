@@ -9,6 +9,7 @@
   <summary>Articles about Git</summary>
 
 - [Remove latest pushed Git-commits from remote repo](https://medium.com/@boolfalse/remove-latest-pushed-git-commits-61e5dcf407d3)
+- [Quick way to solve Git problem: Permission denied](https://medium.com/@boolfalse/quick-way-to-solve-git-problem-permission-denied-b13051546f8f)
 </details>
 
 <details>
