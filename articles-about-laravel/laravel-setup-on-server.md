@@ -1,15 +1,17 @@
 
-## Quick Setup Laravel (PHP, MySQL, Node.js) on AWS EC2 server
+## Setup Laravel (PHP, MySQL, Node.js) on server with a bash script
 
-Amazon Elastic Compute Cloud (EC2) is one of the famous compute platform out there. In my years of experience, I've a lot of cases when I needed to deploy my Laravel app to the AWS. For that reason I've made some ready stuff to do that without repetitive problem-solving.
+Setting up the app on the server is the next important task. In my years of experience, I've a lot of cases when I needed to deploy my Laravel app to the server. It can be AWS EC2, DigitalOcean, Linode or any other platform. Every time I looked for the commands to install this or that software part, which took some time.
+For that reason, I've made some ready-made stuff to do that without doing repetitive problem-solving.
 
-In this article I will share a single bash script that will install not only a Laravel app on AWS EC2, but install and setup some other related technologies for you as well.
+In this article, I will share a single bash script that will deploy not only a Laravel app on the server, but install and setup some other related technologies for you as well.
+I have tested the script using on AWS EC2, but can use it elsewhere.
 
 If you want to check out the ready script now, here's the [⭐ GitHub Gist](https://gist.github.com/boolfalse/87969129638e77db031a40b49ddf7aea) for that.
 
 <img src="https://i.imgur.com/EjCWxvb.png" style="width: 100%;">
 
-_Setup Laravel with PHP, MySQL, Node.js and ElasticSearch on AWS EC2 Server (Ubuntu 22.04)_
+_Setup Laravel with PHP, MySQL, Node.js and ElasticSearch on a server (Ubuntu 22.04)_
 
 ### STEPS:
 
@@ -30,9 +32,7 @@ Below are the steps that will be implemented during running the custom bash scri
 
 For using a ready script for your own, you need to use these instructions:
 
-- Create an AWS EC2 instance (Ubuntu 22.04).
-
-- Login to your instance:
+- Login to your server (instance):
 ```shell
 ssh -i ~/.ssh/private-key.pem ubuntu@<SERVER_IPv4>
 ```

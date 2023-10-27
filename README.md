@@ -10,7 +10,7 @@
 
 - [AmeriaBank & IDram V-POS integration to your Laravel (PHP) app](https://medium.com/@boolfalse/ameriabank-idram-v-pos-integration-to-your-laravel-php-app-ba51816e6acb)
 - [A solid way to add multi-language support to your Laravel app](https://medium.com/@boolfalse/a-solid-way-to-add-multi-language-support-to-your-laravel-app-3c34d7e44600)
-- [Quick Setup Laravel (PHP, MySQL, Node.js) on AWS EC2 server](https://medium.com/@boolfalse/quick-setup-laravel-php-mysql-node-js-on-aws-ec2-server-ad2110f6abb3)
+- [Setup Laravel (PHP, MySQL, Node.js) on server with a bash script](https://medium.com/@boolfalse/setup-laravel-php-mysql-node-js-on-server-with-a-bash-script-ad2110f6abb3)
 </details>
 
 <details>
