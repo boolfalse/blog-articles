@@ -104,8 +104,8 @@ Here’s the link of the appropriate [**_GitHub Gist_**](https://gist.github.com
 
 If you liked this article, feel free to follow me here. 😇
 
-To explore projects working with various modern technologies, you can follow me on [GitHub](https://github.com/boolfalse), where I actively publicize much of my work.
+To explore projects working with various modern technologies, you can follow me on [**GitHub**](https://github.com/boolfalse), where I actively publicize much of my work.
 
-For more info, you can visit my website [boolfalse.com](https://boolfalse.com/)
+For more info, you can visit my website [**boolfalse.com**](https://boolfalse.com/)
 
 Thank you !!!

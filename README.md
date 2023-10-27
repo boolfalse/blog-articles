@@ -9,6 +9,7 @@
   <summary>Articles about Laravel</summary>
 
 - [A solid way to add multi-language support to your Laravel app](https://medium.com/@boolfalse/a-solid-way-to-add-multi-language-support-to-your-laravel-app-3c34d7e44600)
+- [Quick Setup Laravel (PHP, MySQL, Node.js) on AWS EC2 server](https://medium.com/@boolfalse/quick-setup-laravel-php-mysql-node-js-on-aws-ec2-server-ad2110f6abb3)
 </details>
 
 <details>
