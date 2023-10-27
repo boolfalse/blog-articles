@@ -6,6 +6,12 @@
 #### Medium articles:
 
 <details>
+  <summary>Articles about Laravel</summary>
+
+- [A solid way to add multi-language support to your Laravel app](https://medium.com/@boolfalse/a-solid-way-to-add-multi-language-support-to-your-laravel-app-3c34d7e44600)
+</details>
+
+<details>
   <summary>Articles about Git</summary>
 
 - [Remove latest pushed Git-commits from remote repo](https://medium.com/@boolfalse/remove-latest-pushed-git-commits-61e5dcf407d3)
