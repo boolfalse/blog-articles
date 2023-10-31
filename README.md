@@ -1,9 +1,9 @@
 
 ## Blog Articles
 
+***
 
-
-#### Medium articles:
+### Articles on [Medium](https://medium.com/@boolfalse/):
 
 <details>
   <summary>Articles about React.js</summary>
@@ -27,7 +27,7 @@
 </details>
 
 <details>
-  <summary>NGNTJS (English)</summary>
+  <summary>Not Great, Not Terrible JavaScript (English)</summary>
 
 - [Not Great, Not Terrible JavaScript (part 0/7)](https://medium.com/@boolfalse/not-great-not-terrible-javascript-part-0-7-c33d667a9c13)
 - [Browsers; JavaScript Creation (part 1/7)](https://medium.com/@boolfalse/browsers-javascript-creation-74f5cb4f8ff8)
@@ -40,7 +40,7 @@
 </details>
 
 <details>
-  <summary>NGNTJS (հայերեն)</summary>
+  <summary>Not Great, Not Terrible JavaScript (հայերեն)</summary>
 
 - [Not Great, Not Terrible JavaScript (մաս 0/7)](https://medium.com/@boolfalse/not-great-not-terrible-javascript-%D5%B4%D5%A1%D5%BD-0-7-ce7b3d97fd0b)
 - [Browser֊ների մասին; JavaScript֊ի ստեղծումը (մաս 1/7)](https://medium.com/@boolfalse/browser-%D5%B6%D5%A5%D6%80%D5%AB-%D5%B4%D5%A1%D5%BD%D5%AB%D5%B6-javascript-%D5%AB-%D5%BD%D5%BF%D5%A5%D5%B2%D5%AE%D5%B8%D6%82%D5%B4%D5%A8-bd7432375275)
@@ -53,7 +53,8 @@
 </details>
 
 
-#### Dev.to articles:
+
+### Articles on [Dev.to](https://dev.to/boolfalse1024):
 
 <details>
   <summary>Articles about React.js</summary>
@@ -61,6 +62,20 @@
 - [Visualized radio-streaming w/ React/Vite/Node/Socket.io](https://dev.to/boolfalse1024/visualized-radio-streaming-w-reactvitenodesocketio-34jo)
 </details>
 
+<details>
+  <summary>Not Great, Not Terrible JavaScript (English)</summary>
+
+- [Not Great, Not Terrible JavaScript (part 0/7)](https://dev.to/boolfalse1024/not-great-not-terrible-javascript-part-07-3hp5)
+- [Browsers; JavaScript Creation (part 1/7)](https://dev.to/boolfalse1024/browsers-javascript-creation-part-17-3c85)
+- [JavaScript Engine: meaning and structure (part 2/7)](https://dev.to/boolfalse1024/javascript-engine-meaning-and-structure-part-27-2pc6)
+- [JavaScript: Execution Context, Data Storing (part 3/7)](https://dev.to/boolfalse1024/javascript-execution-context-data-storing-part-37-2n1l)
+- [Node.js: libUV, introducing event-loop (part 4/7)](https://dev.to/boolfalse1024/nodejs-libuv-introducing-event-loop-part-47-59hp)
+- [Node.js: thread pool, real life analogy (part 5/7)](https://dev.to/boolfalse1024/nodejs-thread-pool-real-life-analogy-part-57-4njo)
+- [Node.js: event-loop with practical examples. A big picture (part 6/7)](https://dev.to/boolfalse1024/nodejs-event-loop-with-practical-examples-a-big-picture-part-67-2nhi)
+- [JavaScript: language, engines, runtimes, environments (part 7/7)](https://dev.to/boolfalse1024/javascript-language-engines-runtimes-environments-part-77-gjf)
+</details>
+
+***
 
 #### Author:
 
