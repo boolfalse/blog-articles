@@ -54,25 +54,25 @@
 
 
 
-### Articles on [Dev.to](https://dev.to/boolfalse1024):
+### Articles on [Dev.to](https://dev.to/boolfalse):
 
 <details>
   <summary>Articles about React.js</summary>
 
-- [Visualized radio-streaming w/ React/Vite/Node/Socket.io](https://dev.to/boolfalse1024/visualized-radio-streaming-w-reactvitenodesocketio-34jo)
+- [Visualized radio-streaming w/ React/Vite/Node/Socket.io](https://dev.to/boolfalse/visualized-radio-streaming-w-reactvitenodesocketio-34jo)
 </details>
 
 <details>
   <summary>Not Great, Not Terrible JavaScript (English)</summary>
 
-- [Not Great, Not Terrible JavaScript (part 0/7)](https://dev.to/boolfalse1024/not-great-not-terrible-javascript-part-07-3hp5)
-- [Browsers; JavaScript Creation (part 1/7)](https://dev.to/boolfalse1024/browsers-javascript-creation-part-17-3c85)
-- [JavaScript Engine: meaning and structure (part 2/7)](https://dev.to/boolfalse1024/javascript-engine-meaning-and-structure-part-27-2pc6)
-- [JavaScript: Execution Context, Data Storing (part 3/7)](https://dev.to/boolfalse1024/javascript-execution-context-data-storing-part-37-2n1l)
-- [Node.js: libUV, introducing event-loop (part 4/7)](https://dev.to/boolfalse1024/nodejs-libuv-introducing-event-loop-part-47-59hp)
-- [Node.js: thread pool, real life analogy (part 5/7)](https://dev.to/boolfalse1024/nodejs-thread-pool-real-life-analogy-part-57-4njo)
-- [Node.js: event-loop with practical examples. A big picture (part 6/7)](https://dev.to/boolfalse1024/nodejs-event-loop-with-practical-examples-a-big-picture-part-67-2nhi)
-- [JavaScript: language, engines, runtimes, environments (part 7/7)](https://dev.to/boolfalse1024/javascript-language-engines-runtimes-environments-part-77-gjf)
+- [Not Great, Not Terrible JavaScript (part 0/7)](https://dev.to/boolfalse/not-great-not-terrible-javascript-part-07-3hp5)
+- [Browsers; JavaScript Creation (part 1/7)](https://dev.to/boolfalse/browsers-javascript-creation-part-17-3c85)
+- [JavaScript Engine: meaning and structure (part 2/7)](https://dev.to/boolfalse/javascript-engine-meaning-and-structure-part-27-2pc6)
+- [JavaScript: Execution Context, Data Storing (part 3/7)](https://dev.to/boolfalse/javascript-execution-context-data-storing-part-37-2n1l)
+- [Node.js: libUV, introducing event-loop (part 4/7)](https://dev.to/boolfalse/nodejs-libuv-introducing-event-loop-part-47-59hp)
+- [Node.js: thread pool, real life analogy (part 5/7)](https://dev.to/boolfalse/nodejs-thread-pool-real-life-analogy-part-57-4njo)
+- [Node.js: event-loop with practical examples. A big picture (part 6/7)](https://dev.to/boolfalse/nodejs-event-loop-with-practical-examples-a-big-picture-part-67-2nhi)
+- [JavaScript: language, engines, runtimes, environments (part 7/7)](https://dev.to/boolfalse/javascript-language-engines-runtimes-environments-part-77-gjf)
 </details>
 
 ***
