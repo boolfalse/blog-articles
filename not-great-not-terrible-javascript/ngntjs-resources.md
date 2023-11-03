@@ -8,10 +8,10 @@
 - [2020.09.10 | Tania Rascia | Understanding the Event Loop, Callbacks, Promises, and Async/Await in JavaScript](https://www.taniarascia.com/asynchronous-javascript-event-loop-callbacks-promises-async-await/)
 - [2021.04.13 | Ayush Verma | The JavaScript Event Loop: Explained](https://towardsdev.com/event-loop-in-javascript-672c07618dc9)
 - [2021.09.13 | TAPAS ADHIKARY | Synchronous vs Asynchronous JavaScript – Call Stack, Promises, and More](https://www.freecodecamp.org/news/synchronous-vs-asynchronous-in-javascript/)
-- - [2021.09.10 | Tapas Adhikary | JavaScript Sync-Async and Promises](https://www.youtube.com/playlist?list=PLIJrr73KDmRyCanrlIS8PEOF0kPKgI8jN)
+  - [2021.09.10 | Tapas Adhikary | JavaScript Sync-Async and Promises](https://www.youtube.com/playlist?list=PLIJrr73KDmRyCanrlIS8PEOF0kPKgI8jN)
 - [2021.11.19 | Moshe Binieli | Event Loop in NodeJS— Visualized](https://medium.com/@mmoshikoo/event-loop-in-nodejs-visualized-235867255e81)
 - [2022.09.22 | Vishwas | gopinav/Nodejs-Tutorials](https://github.com/gopinav/Nodejs-Tutorials/blob/master/node-fundamentals/event-loop.js)
-- - [2022.11.27 | Codevolution | Node.js Tutorial for Beginners](https://www.youtube.com/playlist?list=PLC3y8-rFHvwh8shCMHFA5kWxD9PaPwxaY)
+  - [2022.11.27 | Codevolution | Node.js Tutorial for Beginners](https://www.youtube.com/playlist?list=PLC3y8-rFHvwh8shCMHFA5kWxD9PaPwxaY)
 - [2023.02.17 | Tamas Kadlecsik | Understanding the Node.js Event Loop](https://blog.risingstack.com/node-js-at-scale-understanding-node-js-event-loop/)
 
 ### Official publishments:
@@ -51,4 +51,6 @@
 - [A guide to Node.js design patterns](https://blog.logrocket.com/guide-node-js-design-patterns/)
 - [Node.js Design Patterns Third Edition, published by Packt](https://github.com/PacktPublishing/Node.js-Design-Patterns-Third-Edition)
 - [Node.js Design Patterns [packtpub Video]](https://www.packtpub.com/product/nodejs-design-patterns-video/9781789538397)
+- [Have fun w/ D. Crockford](https://www.youtube.com/watch?v=Aa_OWn03mDo)
+  - PowerPoint Presentation: [Fun With Functions](https://www.crockford.com/pp/fun.pptx)
 
