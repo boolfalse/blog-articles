@@ -6,14 +6,14 @@
 ### Articles on [Medium](https://medium.com/@boolfalse/):
 
 <details>
-  <summary>Articles about Node.js & React.js</summary>
+  <summary>Node.js & React.js</summary>
 
 - [Create your own AI voice assistant bot with Node.js using Google Bard](https://medium.com/@boolfalse/create-your-own-ai-voice-assistant-bot-with-node-js-using-google-bard-8d3572ed5272)
 - [Visualized radio-streaming with React/Vite/Node/Socket.io](https://medium.com/@boolfalse/visualized-radio-streaming-with-react-vite-node-ffmpeg-socket-io-9ed6feb6fcc3)
 </details>
 
 <details>
-  <summary>Articles about Laravel</summary>
+  <summary>Laravel</summary>
 
 - [AmeriaBank & IDram V-POS integration to your Laravel (PHP) app](https://medium.com/@boolfalse/ameriabank-idram-v-pos-integration-to-your-laravel-php-app-ba51816e6acb)
 - [A solid way to add multi-language support to your Laravel app](https://medium.com/@boolfalse/a-solid-way-to-add-multi-language-support-to-your-laravel-app-3c34d7e44600)
@@ -21,7 +21,7 @@
 </details>
 
 <details>
-  <summary>Articles about Git</summary>
+  <summary>Git</summary>
 
 - [Remove latest pushed Git-commits from remote repo](https://medium.com/@boolfalse/remove-latest-pushed-git-commits-61e5dcf407d3)
 - [Quick way to solve Git problem: Permission denied](https://medium.com/@boolfalse/quick-way-to-solve-git-problem-permission-denied-b13051546f8f)
@@ -58,13 +58,13 @@
 ### Articles on [Dev.to](https://dev.to/boolfalse):
 
 <details>
-  <summary>Articles about React.js</summary>
+  <summary>React.js</summary>
 
 - [Visualized radio-streaming w/ React/Vite/Node/Socket.io](https://dev.to/boolfalse/visualized-radio-streaming-w-reactvitenodesocketio-34jo)
 </details>
 
 <details>
-  <summary>Articles about Laravel</summary>
+  <summary>Laravel</summary>
 
 - [A solid way to add multi-language support to your Laravel app]()
 </details>
