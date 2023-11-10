@@ -63,6 +63,12 @@
 </details>
 
 <details>
+  <summary>Articles about Laravel</summary>
+
+- [A solid way to add multi-language support to your Laravel app]()
+</details>
+
+<details>
   <summary>Not Great, Not Terrible JavaScript (English)</summary>
 
 - [Not Great, Not Terrible JavaScript (part 0/7)](https://dev.to/boolfalse/not-great-not-terrible-javascript-part-07-3hp5)
