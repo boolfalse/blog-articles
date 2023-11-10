@@ -6,8 +6,9 @@
 ### Articles on [Medium](https://medium.com/@boolfalse/):
 
 <details>
-  <summary>Articles about React.js</summary>
+  <summary>Articles about Node.js & React.js</summary>
 
+- [Create your own AI voice assistant bot with Node.js using Google Bard](https://medium.com/@boolfalse/create-your-own-ai-voice-assistant-bot-with-node-js-using-google-bard-8d3572ed5272)
 - [Visualized radio-streaming with React/Vite/Node/Socket.io](https://medium.com/@boolfalse/visualized-radio-streaming-with-react-vite-node-ffmpeg-socket-io-9ed6feb6fcc3)
 </details>
 
