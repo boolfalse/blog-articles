@@ -67,7 +67,8 @@
 <details>
   <summary>Laravel</summary>
 
-- [A solid way to add multi-language support to your Laravel app]()
+- [A solid way to add multi-language support to your Laravel app](https://dev.to/boolfalse/a-solid-way-to-add-multi-language-support-to-your-laravel-app-4gcd)
+- [Setup Laravel (PHP, MySQL, Node.js) on server with a bash script](https://dev.to/boolfalse/setup-laravel-php-mysql-nodejs-on-server-with-a-bash-script-4105)
 </details>
 
 <details>
