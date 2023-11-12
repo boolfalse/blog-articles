@@ -58,8 +58,9 @@
 ### Articles on [Dev.to](https://dev.to/boolfalse):
 
 <details>
-  <summary>React.js</summary>
+  <summary>Node.js & React.js</summary>
 
+- [Create your own AI voice assistant bot with Node.js using Google Bard](https://dev.to/boolfalse/create-your-own-ai-voice-assistant-bot-with-nodejs-using-google-bard-pih)
 - [Visualized radio-streaming w/ React/Vite/Node/Socket.io](https://dev.to/boolfalse/visualized-radio-streaming-w-reactvitenodesocketio-34jo)
 </details>
 

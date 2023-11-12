@@ -3,7 +3,13 @@
 
 Before starting, just watch this very short [**YouTube**](https://www.youtube.com/shorts/YFpR8x7sPQY) video to see what exactly you can make with no cost by following this article until the end.
 
-In this article you can learn the way to build an AI voice assistant using Google Bard. You will create a Telegram bot API using following stack:
+As you may already know, voice conversations have come to the ChatGPT app. That was officially announced by OpenAI:
+
+- Event Livestream: [OpenAI DevDay, Opening Keynote](https://www.youtube.com/watch?v=U9mJuUkhUzk&t=542s)
+- Blog: [New models and developer products announced at DevDay](https://openai.com/blog/new-models-and-developer-products-announced-at-devday)
+- Short video by CNET: [Voice Conversations Come to the ChatGPT App](https://www.youtube.com/watch?v=a0W2SgX_u-Y)
+
+In this article, you can learn a way to build an AI voice assistant using Google Bard. You will create a Telegram bot API using the following stack:
 
 - [**Node.js**](https://nodejs.org/en/download) — the running backend server which will interact with Telegram to receive and send voice/text messages
 - [**Python**](https://www.python.org/downloads/) — scripts for TTS (text-to-speech), audio-transcribing (speech-to-text) and getting Google Bard answers
