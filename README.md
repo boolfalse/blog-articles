@@ -72,6 +72,12 @@
 </details>
 
 <details>
+  <summary>Git</summary>
+
+- [Quick way to solve Git problem: Permission denied](https://dev.to/boolfalse/quick-way-to-solve-git-problem-permission-denied-2kd5)
+</details>
+
+<details>
   <summary>Not Great, Not Terrible JavaScript (English)</summary>
 
 - [Not Great, Not Terrible JavaScript (part 0/7)](https://dev.to/boolfalse/not-great-not-terrible-javascript-part-07-3hp5)
