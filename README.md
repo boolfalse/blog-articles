@@ -67,6 +67,7 @@
 <details>
   <summary>Laravel</summary>
 
+- [AmeriaBank & IDram V-POS integration to your Laravel (PHP) app](https://dev.to/boolfalse/ameriabank-idram-v-pos-integration-to-your-laravel-php-app-e55)
 - [A solid way to add multi-language support to your Laravel app](https://dev.to/boolfalse/a-solid-way-to-add-multi-language-support-to-your-laravel-app-4gcd)
 - [Setup Laravel (PHP, MySQL, Node.js) on server with a bash script](https://dev.to/boolfalse/setup-laravel-php-mysql-nodejs-on-server-with-a-bash-script-4105)
 </details>
