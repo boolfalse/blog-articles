@@ -75,6 +75,7 @@
 <details>
   <summary>Git</summary>
 
+- [Remove latest pushed Git-commits from remote repo](https://dev.to/boolfalse/remove-latest-pushed-git-commits-from-remote-repo-35c1)
 - [Quick way to solve Git problem: Permission denied](https://dev.to/boolfalse/quick-way-to-solve-git-problem-permission-denied-2kd5)
 </details>
 
