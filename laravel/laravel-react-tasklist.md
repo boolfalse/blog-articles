@@ -3,8 +3,9 @@
 
 
 - Original article on [freeCodeCamp.org](https://www.freecodecamp.org/news/use-react-with-laravel/)
-- freeCodeCamp post on [Facebook](https://www.facebook.com/freecodecamp/posts/pfbid08bCEavT8s1XrtwD1AemJe938qKhtPbxJP1bEjbTYscuRtF9a4hraJCT6jRRCiDgKl)
-- freeCodeCamp post on [LinkedIn](https://www.linkedin.com/embed/feed/update/urn:li:share:7157055474184450049)
+- Posted on [Facebook](https://www.facebook.com/freecodecamp/posts/pfbid08bCEavT8s1XrtwD1AemJe938qKhtPbxJP1bEjbTYscuRtF9a4hraJCT6jRRCiDgKl)
+- Posted on [LinkedIn](https://www.linkedin.com/embed/feed/update/urn:li:share:7157055474184450049)
+- Posted on [X (Twitter)](https://twitter.com/freeCodeCamp/status/1751274319856963889)
 
 
 ### Introduction
