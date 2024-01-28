@@ -3,6 +3,14 @@
 
 ***
 
+### Articles on [freeCodeCamp.org](https://www.freecodecamp.org/news/author/boolfalse/):
+
+<details>
+  <summary>MISC</summary>
+
+- [How to Use React.js with Laravel to Build a Draggable Tasklist App](https://www.freecodecamp.org/news/use-react-with-laravel/)
+</details>
+
 ### Articles on [Medium](https://medium.com/@boolfalse/):
 
 <details>
