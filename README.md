@@ -9,6 +9,7 @@
   <summary>MISC</summary>
 
 - [How to Use React.js with Laravel to Build a Draggable Tasklist App](https://www.freecodecamp.org/news/use-react-with-laravel/)
+- [How to Build Real-Time Chat App with Laravel Reverb](https://www.freecodecamp.org/news/laravel-reverb-realtime-chat-app/)
 </details>
 
 ### Articles on [Medium](https://medium.com/@boolfalse/):
