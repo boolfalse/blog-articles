@@ -3,7 +3,9 @@
 
 
 - Original article on [freeCodeCamp.org](https://www.freecodecamp.org/news/laravel-reverb-realtime-chat-app/)
-
+- Posted on [Facebook](https://www.facebook.com/freecodecamp/posts/pfbid02dCZt17asonxpXpeWBHsf7gJsnJVyxeszbKpnwi79qY6YUrEi7tzVaVcfmRSgCwARl)
+- Posted on [LinkedIn](https://www.linkedin.com/embed/feed/update/urn:li:share:7179856007320203264)
+- Posted on [X (Twitter)](https://twitter.com/freeCodeCamp/status/1774075104953033059)
 
 ### Introduction
 
