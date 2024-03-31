@@ -17,7 +17,7 @@ Before this new package, Laravel had event broadcasting, but basically it didn't
 
 Laravel Reverb has a few key features: it's written in PHP, it's fast, and it's scalable. It was developed in particular to be horizontally scalable.
 
-Reverb basically allows you to run an application on a single server – but if the application starts to outgrow that server, you can add multiple additional servers. Then those servers can all communicate with each other to distribute the messages between themselves.
+Reverb basically allows you to run an application on a single server – but if the application starts to outgrow that server, you can add multiple additional servers. Then those servers can all communicate with each other via [Redis Pub/Sub](https://redis.io/docs/interact/pubsub/) to distribute the messages across each other.
 
 In this article, you will learn how to build a real-time chat application using Laravel Reverb. This will let you easily implement WebSocket communications between your backend and frontend.
 
@@ -768,6 +768,7 @@ For testing, you can register two different users, have those users log in, send
 Now that we've reached the end of this article, it's worth listing some useful resources about Reverb:
 
 - [Laravel Broadcasting](https://laravel.com/docs/11.x/broadcasting) (official documentation)
+- [Joe Dixon - Real-Time Laravel](https://www.youtube.com/watch?v=yrL5eCMpqtc) (talk on Laracon EU 2024)
 - [Taylor Otwell - Laravel Update](https://www.youtube.com/watch?v=0g7HqfsCX4Y) (talk on Laracon EU 2024)
 - [Joe Dixon on X](https://twitter.com/_joedixon) (creator of Reverb)
 - [Laracasts episode](https://laracasts.com/series/lukes-larabits/episodes/17) (practical example with Reverb)
