@@ -1,6 +1,11 @@
 
 ## How to Set Up a Custom Email with Cloudflare and Mailgun
 
+- Original article on [freeCodeCamp.org](https://www.freecodecamp.org/news/how-to-set-up-custom-email/)
+- Posted on [Facebook](https://www.facebook.com/freecodecamp/posts/pfbid0THUdm2Uy5CtvYGkDDptHKcJ99UNS9B4RwnFmwsyDVeKCoKt8oQpkFgUX56gTKQE2l)
+- Posted on [LinkedIn](https://www.linkedin.com/embed/feed/update/urn:li:share:7185970876209627137)
+- Posted on [X (Twitter)](https://twitter.com/freeCodeCamp/status/1780189659055714430)
+
 <img alt="How to Set Up Custom Email along with Domain" src="https://i.imgur.com/Op3IJis.png">
 
 As a software engineer, you may want to consider having a professional email account along with your own website like "_info@example.com_". But you may realized that it must cost a certain amount that you are not willing to pay. How would you behave if you knew you could do it for free? There is actually a way to do it, and besides the fact that having a professional email account is free, it will help you be more efficient, reliable and secure in your daily work.

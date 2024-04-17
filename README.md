@@ -10,6 +10,7 @@
 
 - [How to Use React.js with Laravel to Build a Draggable Tasklist App](https://www.freecodecamp.org/news/use-react-with-laravel/)
 - [How to Build Real-Time Chat App with Laravel Reverb](https://www.freecodecamp.org/news/laravel-reverb-realtime-chat-app/)
+- [How to Set Up a Custom Email with Cloudflare and Mailgun](https://www.freecodecamp.org/news/how-to-set-up-custom-email/)
 </details>
 
 ### Articles on [Medium](https://medium.com/@boolfalse/):
@@ -30,10 +31,11 @@
 </details>
 
 <details>
-  <summary>Git</summary>
+  <summary>DevOps</summary>
 
 - [Remove latest pushed Git-commits from remote repo](https://medium.com/@boolfalse/remove-latest-pushed-git-commits-61e5dcf407d3)
 - [Quick way to solve Git problem: Permission denied](https://medium.com/@boolfalse/quick-way-to-solve-git-problem-permission-denied-b13051546f8f)
+- [Setup Custom Email with Cloudflare and Mailgun](https://medium.com/@boolfalse/setup-custom-email-with-cloudflare-and-mailgun-41ef4858fb04)
 </details>
 
 <details>
@@ -82,10 +84,11 @@
 </details>
 
 <details>
-  <summary>Git</summary>
+  <summary>DevOps</summary>
 
 - [Remove latest pushed Git-commits from remote repo](https://dev.to/boolfalse/remove-latest-pushed-git-commits-from-remote-repo-35c1)
 - [Quick way to solve Git problem: Permission denied](https://dev.to/boolfalse/quick-way-to-solve-git-problem-permission-denied-2kd5)
+- [Setup Custom Email with Cloudflare and Mailgun](https://dev.to/boolfalse/setup-custom-email-with-cloudflare-and-mailgun-408l)
 </details>
 
 <details>
